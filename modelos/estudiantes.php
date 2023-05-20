@@ -23,9 +23,13 @@ class Producto extends Conexion{
         $this->alumno_email = $args['alumno_email'] ?? '';
     }
 
+
+
+    
    // primera modificacion 
 
     public function guardar(){
+        
         $sql = "INSERT INTO estudiantes(primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, alumno_nacimiento, alumno_tel, alumno_email) 
         values('$this->primer_nombre','$this->segundo_nombre','$this->primer_apellido','$this->segundo_apellido','$this->alumno_nacimiento','$this->alumno_tel','$this->alumno_email')";
         $resultado = self::ejecutar($sql);
