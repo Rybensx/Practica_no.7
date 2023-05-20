@@ -41,19 +41,19 @@
 
                 <div class="row mb-3">
                     <div class="col">
-                        <label for="fecha_nacimiento">Fecha de Nacimiento:</label>
-                        <input type="date" name="fecha_nacimiento" id="fecha_nacimiento" class="form-control">
+                        <label for="alumno_nacimiento">Fecha de Nacimiento:</label>
+                        <input type="date" name="alumno_nacimiento" id="alumno_nacimiento" class="form-control">
                     </div>
                     <div class="col">
-                        <label for="telefono">Número de Teléfono:</label>
-                        <input type="tel" name="telefono" id="telefono" class="form-control">
+                        <label for="alumno_tel">Número de Teléfono:</label>
+                        <input type="tel" name="alumno_tel" id="alumno_tel" class="form-control">
                     </div>                       
                 </div>
 
                 <div class="row mb-3">
                     <div class="col">
-                        <label for="email">Correo Electronico:</label>
-                        <input type="email" name="email" id="email" class="form-control">
+                        <label for="alumno_email">Correo Electronico:</label>
+                        <input type="email" name="alumno_email" id="alumno_email" class="form-control">
                     </div>                    
                 </div>
 
