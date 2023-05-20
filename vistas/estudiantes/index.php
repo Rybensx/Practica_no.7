@@ -15,7 +15,7 @@
         <h1 class="text-center">Formulario de Estudiantes de Informatica</h1>
         <div class="row justify-content-center">
             
-            <form action="/Practica_no.7/controladores/productos/guardar.php" method="POST" class="col-lg-8 border bg-light p-3">
+            <form action="/Practica_no.7/controladores/estudiantes/guardar.php" method="POST" class="col-lg-8 border bg-light p-3">
 
                 <div class="row mb-3">
                     <div class="col">
