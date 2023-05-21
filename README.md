@@ -1,2 +1,2 @@
-# crudphp18may2023
-Clase de Crud en php 
+# practica_07
+practica_07
